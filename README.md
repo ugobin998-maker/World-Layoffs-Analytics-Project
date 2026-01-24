@@ -1,6 +1,8 @@
 # World-Layoffs-Analytics-Project
 Data Analysis Project using SQL, Excel and PowerBI
 
+![image alt](https://github.com/ugobin998-maker/World-Layoffs-Analytics-Project/blob/f933fe4c9ba325da8b6a061b2c5c7a4d6096f824/World%20Layoffs%20Full%20Project/Screenshot%202026-01-24%20143938.png)
+
 ### Overview
 This project analyzes job market trends from March 2020 to March 2023 through an interactive dashboard. It uncovers key patterns in layoffs over time while allowing users to filter and explore the data in a clear, user-friendly way.
 
